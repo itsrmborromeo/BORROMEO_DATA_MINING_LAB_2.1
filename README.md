@@ -1,1 +1,1 @@
-# Fundamentals of Data Warehousing and Data Mining - Lab 2.1
+# Lab 2.1
